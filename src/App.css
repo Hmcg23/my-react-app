@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   color: white;
+  text-align: center;
 }
 
 body {
@@ -36,7 +37,7 @@ body {
 }
 
 h1 {
-  animation: turn 5s infinite;
+  animation: turn 5 s infinite;
 }
 
 h2 {
